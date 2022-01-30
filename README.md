@@ -2,6 +2,7 @@
 This is a program in python which makes use of the textBlob and python SpellChecker libraries to rectify spelling mistakes. The program reads in a sample text (in this case, the very large text of 'Moby Dick') and attempts to find all misspelled words and outputs their suggested correct alternatives using methods like Levenshtein distance and regex methods to truncate our text.
 
 Program executed using Google Colab.
+
 Link : https://colab.research.google.com/drive/188Z2b2Eue_FlniHRCRrEg0bNmgaBjDkC?usp=sharing
 
 Program:
